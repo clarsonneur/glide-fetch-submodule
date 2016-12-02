@@ -1,0 +1,8 @@
+hash: 2b825cb6444dd0cf6a618b9dcceb46d45dd3c05c13dd1e6a74efc91f28e04499
+updated: 2016-12-02T16:08:31.640439759Z
+imports:
+- name: github.com/dt/subparentdemo
+  version: 70f8b97d28b1b0b9064616ef51c9cca639f70f7f
+  subpackages:
+  - subdemo
+testImports: []
