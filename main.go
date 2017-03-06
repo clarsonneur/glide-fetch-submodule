@@ -1,6 +1,6 @@
 package main
 
-import "github.com/dt/subparentdemo"
+import "github.com/clarsonneur/subparentdemo"
 
 func main() {
 	subparentdemo.PrintSubmoduleVersion()
